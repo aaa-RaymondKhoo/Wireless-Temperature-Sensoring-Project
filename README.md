@@ -1,4 +1,4 @@
-WIreless-Temperature-Sensoring-Project
+Wireless-Temperature-Sensoring-Project
 ======================================
 * This project was created part of a two-term senior design course sequence in Electrical Engineering at San Francisco State University 
 * Our first main purpose was to make a portable wireless temperature control sensor, display the temperature output approximately only for usage in the car and/or for camping within 40 feet distance
